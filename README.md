@@ -38,4 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 -->
 
 # bwnz1x website
+WIP
 built on Next.JS. learning this making me going bald
